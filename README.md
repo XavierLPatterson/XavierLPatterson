@@ -16,6 +16,12 @@ A non-chair-procrastinator who loves:
 [![Rust logo](https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg)](https://rust-lang.org/) 
 [![C logo](https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg)](https://www.programiz.com/c-programming)
 [![C++ logo](https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg)](https://www.w3schools.com/cpp/cpp_intro.asp)
+[![Bash logo](https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg)](https://www.w3schools.com/bash)
+
+## Always learning
+I've realized something...
+> We never stop learning
+I'm pretty much always working on those languages and even on a few not shown (TypeScript, Java, etc.)
 
 > [!TIP]
 > Sometimes on [Khan Academy](https://www.khanacademy.org/profile/UnavailablePIZZAtype)
