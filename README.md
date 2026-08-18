@@ -21,6 +21,7 @@ A non-chair-procrastinator who loves:
 ## Always learning
 I've realized something...
 > We never stop learning
+
 I'm pretty much always working on those languages and even on a few not shown (TypeScript, Java, etc.)
 
 > [!TIP]
