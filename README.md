@@ -30,7 +30,7 @@ A non-chair-procrastinator who loves:
   <a href="https://www.rust-lang.org/">
     <img src="https://skillicons.dev/icons?i=rust" width="60px" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <a href="https://en.cppreference.com/w/c">
     <img src="https://skillicons.dev/icons?i=c" width="75px" />
   </a>
   <a href="https://isocpp.org/">
