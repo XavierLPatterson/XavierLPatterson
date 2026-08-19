@@ -7,22 +7,45 @@ A non-chair-procrastinator who loves:
 - And writing super efficient code
 
 ## Proficient with
-[![HTML logo](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS logo](https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Javascript logo](https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/JavaScript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python logo](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg)](https://www.python.org/about)
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" width="90px" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" width="80px" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" width="90px" />
+  </a>
+  <a href="https://p5js.org/">
+    <img src="https://skillicons.dev/icons?i=p5js" width="80px" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" width="90px" />
+  </a>
+</p>
 
 ## Generally capable with
-[![Rust logo](https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg)](https://rust-lang.org/) 
-[![C logo](https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg)](https://www.programiz.com/c-programming)
-[![C++ logo](https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg)](https://www.w3schools.com/cpp/cpp_intro.asp)
-[![Bash logo](https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg)](https://www.w3schools.com/bash)
+<p align="center">
+  <a href="https://www.rust-lang.org/">
+    <img src="https://skillicons.dev/icons?i=rust" width="60px" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://skillicons.dev/icons?i=c" width="75px" />
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://skillicons.dev/icons?i=cpp" width="75px" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://skillicons.dev/icons?i=bash" width="25px" />
+  </a>
+</p>
+
+> [!NOTE]
+> I'm pretty much always working on those languages--and even a few not shown ([TypeScript](https://www.typescriptlang.org/), [Java](https://www.oracle.com/java/), etc.)--in hopes to achieve **Ultimate** efficiency! :D
 
 ## Always learning
-I've realized something...
-> We never stop learning
-
-I'm pretty much always working on those languages and even on a few not shown (TypeScript, Java, etc.)
+> _We never stop learning_ - Moi
 
 > [!TIP]
 > Sometimes on [Khan Academy](https://www.khanacademy.org/profile/UnavailablePIZZAtype)
