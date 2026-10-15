@@ -1,5 +1,6 @@
 # Whazza!
 A non-chair-procrastinator who loves:
+- God
 - Nature
 - Floating peeps boats
 - Eating Italian noodles with chopsticks
@@ -48,4 +49,4 @@ A non-chair-procrastinator who loves:
 > _We never stop learning_ - Moi
 
 > [!TIP]
-> Sometimes on [Khan Academy](https://www.khanacademy.org/profile/UnavailablePIZZAtype)
+> Sometimes on [Khan Academy](https://www.khanacademy.org/profile/UnavailablePIZZAtype) making x-tra cool content!
